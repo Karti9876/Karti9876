@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kartik Gautam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Data Analyst from India</h3>
 <img align = "right" width = "400px" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartik9876&label=Profile%20views&color=0e75b6&style=flat" alt="kartik9876" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@kartikg49734094" target="blank"><img src="https://img.shields.io/twitter/follow/@kartikg49734094?logo=twitter&style=for-the-badge" alt="@kartikg49734094" /></a> </p>
 
-- 🌱 I’m currently learning **DSA in C++ and Web Developement Technologies**
+- 🌱 I’m currently learning **Salesforce CRM Concepts**
 
 - 📫 How to reach me **gautamkartik747@gmail.com**
 
